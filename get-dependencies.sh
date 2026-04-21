@@ -25,7 +25,7 @@ case "$ARCH" in # they use AMD64 and ARM64 for the deb links
 esac
 DEB_LINK=$(wget https://api.github.com/repos/shiftkey/desktop/releases/latest -O - | \
 	grep "browser_download_url" | \
-    grep "$deb_arch.deb" | \
+    grep "$deb_arch.*\.deb" | \
     cut -d '"' -f 4 | \
     head -n 1)
 #      | sed 's/[()",{} ]/\n/g' | grep -o -m 1 "https.*-$deb_arch-*.deb")
