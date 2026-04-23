@@ -36,6 +36,6 @@ ar xvf /tmp/app.deb
 tar -xvf ./data.tar.xz
 rm -f ./*.xz
 rm -rf ./usr/share/doc
-mv -v ./usr/lib/github-desktop/* ./AppDir/bin
-cp ./usr/share/icons/hicolor/256x256/apps/github-desktop.png ./AppDir/.DirIcon
-mv -v ./usr/share/icons/hicolor/256x256/apps/github-desktop.png ./usr/share/applications/github-desktop.desktop ./AppDir
+mv -v ./usr/lib/github-desktop-plus/* ./AppDir/bin
+cp ./usr/share/icons/hicolor/256x256/apps/github-desktop-plus.png ./AppDir/.DirIcon
+mv -v ./usr/share/icons/hicolor/256x256/apps/github-desktop-plus.png ./usr/share/applications/github-desktop-plus.desktop ./AppDir
