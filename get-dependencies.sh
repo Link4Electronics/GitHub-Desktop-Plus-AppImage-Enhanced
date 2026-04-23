@@ -32,7 +32,7 @@ fi
 
 mkdir -p ./AppDir/bin
 ar xvf /tmp/app.deb
-tar -xvf ./data.tar.zst
+bsdtar -xvf ./data.tar.zst
 rm -f ./*.zst
 rm -rf ./usr/share/doc
 mv -v ./usr/lib/github-desktop-plus/* ./AppDir/bin
