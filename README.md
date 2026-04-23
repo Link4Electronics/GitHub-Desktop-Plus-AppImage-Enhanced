@@ -2,9 +2,9 @@
 
 # GitHub-Desktop-Plus-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced)](https://github.com/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced)](https://github.com/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pol-rivero/github-desktop-plus/refs/heads/main/app/static/linux/logos/1024x1024.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/GitHub-Desktop-Plus-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pol-rivero/github-desktop-plus) |
+| [Click here](https://github.com/pkgforge-dev/GitHub-Desktop-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pol-rivero/github-desktop-plus) |
 
 </div>
 
